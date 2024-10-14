@@ -2,7 +2,10 @@
 - 👀 I’m interested in developing scalable web applications
 - 🌱 I’m currently open to work
 - 💞️ I’m looking to collaborate with like minds
-- 📫 How to reach me 604 782 9534, princeolusegunojugbele@gmail.com, www.linkedin.com/in/prince-olusegun
+- 📫 How to reach me:
+- 👀 604 782 9534
+-     princeolusegunojugbele@gmail.com
+-     www.linkedin.com/in/prince-olusegun
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
